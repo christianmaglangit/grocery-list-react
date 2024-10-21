@@ -4,7 +4,7 @@ import NavHead from "./components/NavHead";
 
 import "./style.css";
 
-function App() {
+function GroceryList() {
   return (
     <>
       <Header />
@@ -14,4 +14,4 @@ function App() {
   );
 }
 
-export default App;
+export default GroceryList;
